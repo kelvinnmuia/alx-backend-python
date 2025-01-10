@@ -135,3 +135,5 @@ bob@dylan:~$ ./4-main.py
   * [4-tasks.py](./4-tasks.py)
 
 ## Additional Project Resources
+
+  * [Async IO in Python: A Complete Walkthrough](https://realpython.com/async-io-python/)
