@@ -1,4 +1,4 @@
-# 0x02. Python - Async Comprehension
+# 0x02. Python - Async 
 ## The Domains/Concepts covered in this project: `Python` `Back-end`
 
 This project introduced me to Python Async Comprehensions, a feature that combines the power of asynchronous programming with the simplicity of comprehensions. I learned how to use async comprehensions to efficiently process asynchronous iterables, enhancing code readability and performance in data-intensive backend tasks.
