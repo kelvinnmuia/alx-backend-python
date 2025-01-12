@@ -1268,3 +1268,12 @@ Make sure that the method returns the expected results based on the fixtures.
 Implement `test_public_repos_with_license` to test the `public_repos` with the argument `license="apache-2.0"` and make sure the result matches the expected value from the fixtures.
 
   * [test_client.py](./test_client.py)
+
+## Additional Project Resources
+
+  * [unittest — Unit testing framework](https://docs.python.org/3/library/unittest.html)
+  * [unittest.mock — mock object library](https://docs.python.org/3/library/unittest.mock.html)
+  * [How to mock a readonly property with mock?](https://stackoverflow.com/questions/11836436/how-to-mock-a-readonly-property-with-mock)
+  * [parameterized](https://pypi.org/project/parameterized/)
+  * [Memoization](https://en.wikipedia.org/wiki/Memoization)
+  * [Python Unittesting](https://docs.google.com/document/d/13322dQB105J84WDVDjNq7qOk5o8a45gcN0R5byWS-MI/edit?usp=sharing)
