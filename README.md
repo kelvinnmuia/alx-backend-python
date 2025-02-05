@@ -12,11 +12,11 @@ The repository covers key backend development concepts, including:
 
   * **Unit & Integration Testing** – Ensuring code reliability and robustness through thorough testing techniques.
 
-**Projects :page_with_curl:**
+## Projects :page_with_curl:
 
 The projects in this repository progressively build expertise in backend Python development:
 
-Back-end - Python
+## Back-end - Python
   
   * [0x00. Python - Variable Annotations](./0x00-python_variable_annotations)
   * [0x01. Python - Async](./0x01-python_async_function)
